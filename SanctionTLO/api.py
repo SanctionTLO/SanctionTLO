@@ -1,6 +1,6 @@
 import httpx
 
-class SanctionTLO:
+class SanctionTLOAPI:
     def __init__(self, api_key):
         self.api_key = api_key
         self.base_url = "closetcheaters.com"
