@@ -28,7 +28,7 @@ python setup.py install
 
 ## Getting Started
 
-Here's a quick example of how to perform an SSN lookup using `SanctionTLOAPI`:
+Here's a quick example of how to perform an SSN lookup using `SanctionTLO`:
 
 ```python
 from SanctionTLO import SanctionTLOAPI
