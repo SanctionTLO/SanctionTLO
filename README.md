@@ -31,7 +31,7 @@ python setup.py install
 Here's a quick example of how to perform an SSN lookup using `SanctionTLOAPI`:
 
 ```python
-from SanctionTLOAPI import SanctionTLOAPI
+from SanctionTLO import SanctionTLOAPI
 
 # Initialize the API with your TLO API key
 api = SanctionTLOAPI(api_key="your_api_key_here")
