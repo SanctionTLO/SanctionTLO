@@ -19,7 +19,7 @@ git clone https://github.com/SanctionTLO/SanctionTLO.git
 ```
 
 ```bash
-cd SanctionTLO/SanctionTLO
+cd SanctionTLO
 ```
 
 ```bash
