@@ -1,7 +1,7 @@
 
 # SanctionTLO
 
-The 'SanctionTLOAPI' library was created to provide an easy way to use SanctionTLO in Python. It helps with background checks and compliance by allowing you to search for someone's details using their SSN, email, or phone number. It also includes advanced searches and phone number lookups.
+The 'SanctionTLO' library was created to provide an easy way to use SanctionTLO in Python. It helps with background checks and compliance by allowing you to search for someone's details using their SSN, email, or phone number. It also includes advanced searches and phone number lookups.
 
 ## Features
 
